@@ -1,2 +1,1 @@
-this is a deplyment script
-deply in dev enviroment
+why is this file like this
