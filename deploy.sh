@@ -1,2 +1,3 @@
 this is a deplyment script
-deply in dev enviroment
+deply in dev enviromende
+deploy this filet
