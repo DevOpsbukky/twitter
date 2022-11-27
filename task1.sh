@@ -14,4 +14,4 @@ touch deploy/app.java
 echo "welcome to tesla" >> deploy/app.java
 chmod 777 deploy/app.java
 sudo chown bukky deploy/app.java
-scp
+#scp
